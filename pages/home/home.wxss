@@ -1,0 +1,12 @@
+/* pages/home/home.wxss */
+.color {
+  background-color: red;
+}
+.father {
+  width: 300px; 
+  height: 300px;
+  border: 1px solid #ccc
+}
+.color2 {
+  background-color: pink
+}

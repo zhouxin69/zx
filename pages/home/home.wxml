@@ -1,0 +1,10 @@
+<!--pages/home/home.wxml-->
+<!-- <text>自己的页面</text>
+<text selectable>123</text>
+<text space="nbsp">4           56</text>
+<text decode>&gt;</text>
+<text>123</text>
+<text>456</text> -->
+<view class="father" hover-class="color2">
+  <view hover-stop-propagation hover-class="color" hover-start-time="100" hover-stay-time="1000">变成红色</view>
+</view>
